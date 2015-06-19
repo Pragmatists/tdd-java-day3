@@ -1,0 +1,9 @@
+[submodule "builders-kata"]
+	path = builders-kata
+	url = https://github.com/Pragmatists/builders-kata.git
+[submodule "movie-database"]
+	path = movie-database
+	url = https://github.com/Pragmatists/movie-database.git
+[submodule "legacy-code-exercises"]
+	path = legacy-code-exercises
+	url = https://github.com/Pragmatists/legacy-code-exercises.git
