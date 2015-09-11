@@ -7,3 +7,6 @@
 [submodule "legacy-code-exercises"]
 	path = legacy-code-exercises
 	url = https://github.com/Pragmatists/legacy-code-exercises.git
+[submodule "movie-list-swing-kata"]
+	path = movie-list-swing-kata
+	url = https://github.com/Pragmatists/movie-list-swing-kata.git
